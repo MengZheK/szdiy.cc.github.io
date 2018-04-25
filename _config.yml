@@ -1,0 +1,59 @@
+theme: jekyll-theme-architect
+
+# head
+title: SZDIY Community
+
+# sidebar header
+info:
+    title: DIY深圳DIY社区
+    description: Welcome to SZDIY/Maker Community
+
+
+sidebar:
+  items:
+    - title: Intro 社区介绍
+      link: /intro
+
+    - title: Meetup 聚会
+      link: /meetup
+
+    - title: Participate 如何参与
+      link: /participate
+
+    - title: Membership 会员制度
+      link: /membership
+
+    - title: Tools 工具列表
+      link: /tools
+
+    - title: Projects 项目
+      link: /projects
+
+    - title: Certificated Members 认证会员
+      link: /members
+
+    - title: History 历史
+      link: /history
+
+    - title: Culture 社区文化
+      link: /culture
+
+    - title: Sponsors 赞助
+      link: /sponsors
+
+social:
+  github: 
+    title: Github
+    link: https://github.com/szdiy
+  flickr: 
+    title: Flickr 
+    link: https://www.flickr.com/groups/szdiy
+  irc: 
+    title: "IRC: #szdiy@freenode"
+    link: https://webchat.freenode.net/?channels=szdiy
+  wechat: 
+    title: "Wechat: szdiyorg"
+  admin:
+    title: "Admin: szdiyadm[#]gmail.com"
+
+
