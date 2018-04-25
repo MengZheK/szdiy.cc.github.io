@@ -7,10 +7,10 @@ permalink: sponsorss
 
 欢迎各位大佬赞助！
 
-<img src="/images/alipayimg.jpg" alt="扫码支持" title="扫一扫" />
+<a href="/images/alipayimg.jpg"> </a><img src="images/alipayimg.jpg" alt="扫码支持" title="扫一扫" width="120" height="120"/>
 
 
-<img src="/images/wepayimg.jpg" alt="支付宝" />
+<a href="/images/wepayimg.jpg"> </a><img src="/images/weipayimg.jpg" alt="支付宝" width="120" height="120" />
 
 
 
