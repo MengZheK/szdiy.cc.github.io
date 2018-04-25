@@ -10,7 +10,7 @@ permalink: sponsorss
 <img src="/images/alipayimg.jpg" alt="扫码支持" title="扫一扫" />
 
 
-<img src="/images/wechat.jpg" alt="支付宝" />
+<img src="/images/wepayimg.jpg" alt="支付宝" />
 
 
 
