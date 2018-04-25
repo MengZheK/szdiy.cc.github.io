@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: sponsors
+permalink: sponsorss
 ---
 
 # Sponsors 赞助
